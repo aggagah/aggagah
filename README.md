@@ -16,7 +16,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-#### Hubungi saya di **gagahsp4@gmail.com**
+#### Hubungi saya di **aggagah.dev@gmail.com**
 #### Terhubung dengan saya di [LinkedIn](https://www.linkedin.com/in/gagah-aji-gunadi-4378441ba/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aggagah&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggagah&show_icons=true&theme=radical)
