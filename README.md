@@ -19,6 +19,10 @@ I've been learning code for 2 years and fell in love with JavaScript, especially
 
 <a  href="https://www.twitch.tv/aggagahdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/aggagahdev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPNGfWLzl8--dFUesUXKzKw)
+
+
 </div>
 
 <p align="center"> ⚡  sleep? only when I remember it. </p>
